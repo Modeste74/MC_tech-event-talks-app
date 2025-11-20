@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Quantum Leap of AI in Modern Development",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning", "Quantum Computing"],
+    "duration": 60,
+    "description": "A deep dive into how quantum-inspired algorithms are revolutionizing machine learning models and the future of software development."
+  },
+  {
+    "title": "Frontend Next: A Look into Micro-Frontends",
+    "speakers": ["Jason Tao", "Maria Garcia"],
+    "category": ["Frontend", "Architecture", "JavaScript"],
+    "duration": 60,
+    "description": "Explore the architectural shift towards micro-frontends. Learn how to build scalable and independently deployable user interfaces."
+  },
+  {
+    "title": "Securing the Cloud: Modern DevOps Practices",
+    "speakers": ["Alex Johnson"],
+    "category": ["DevOps", "Security", "Cloud"],
+    "duration": 60,
+    "description": "Learn the latest DevSecOps strategies to embed security into your CI/CD pipeline and protect your cloud infrastructure from emerging threats."
+  },
+  {
+    "title": "The Future is Now: An Introduction to WebAssembly",
+    "speakers": ["Samira Khan"],
+    "category": ["WebAssembly", "Performance", "Rust"],
+    "duration": 60,
+    "description": "Discover how WebAssembly (Wasm) is enabling near-native performance in web applications and how you can get started with Rust and Wasm."
+  },
+  {
+    "title": "Data-Driven Decisions: Mastering Big Data Pipelines",
+    "speakers": ["Ben Carter", "Li Wei"],
+    "category": ["Data Engineering", "Big Data", "Python"],
+    "duration": 60,
+    "description": "A comprehensive guide to designing, building, and optimizing robust big data pipelines using Python and open-source tools like Spark and Airflow."
+  },
+  {
+    "title": "Building Interactive Worlds with Three.js",
+    "speakers": ["Chloe Bennett"],
+    "category": ["3D", "JavaScript", "WebGL"],
+    "duration": 60,
+    "description": "An introductory session on creating stunning 3D graphics and interactive experiences for the web using the popular Three.js library."
+  }
+]
